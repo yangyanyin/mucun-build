@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/lang/cn/index.js"],"names":["__webpack_require__","r","__webpack_exports__","d","cn","nav","home"],"mappings":"gHAAAA,EAAAC,EAAAC,GAAAF,EAAAG,EAAAD,EAAA,uBAAAE,IAAO,IAAMA,EAAK,CAChBC,IAAK,CACHC,KAAQ","file":"js/chunk-2d0c0617.abcf739a.js","sourcesContent":["export const cn = {\n  nav: {\n    \"home\": \"首页\"\n  }\n}"],"sourceRoot":""}
